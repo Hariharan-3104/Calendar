@@ -5,7 +5,7 @@ import dayjs from "dayjs";
 import Header from "./components/Header.jsx";
 import Calendar from "./components/Calendar.jsx";
 import Modal from "./components/Modal.jsx";
-import initialEvents from "./data/events.json";
+import initialEvents from "./Data/Events.json";
 import "./App.css";
 
 const App = () => {
